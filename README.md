@@ -6,7 +6,7 @@ Clean and minimal Quarto template for revealjs presentations. Modified and simpl
 
 -   Gray heading accents,
 -   no logo,
--   blue and orange bullet points,
+-   neutral bullet points,
 -   Roboto font default, and
 -   Jetbrains mono font (no ligatures) for code blocks.
 -   Image zoom on click (Radovan Miletić, [here](https://stackoverflow.com/questions/75922380/how-to-zoom-on-graph-in-slide-revealjs-quarto))
