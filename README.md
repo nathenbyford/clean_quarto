@@ -1,15 +1,15 @@
 # Clean reveal.js Theme for Quarto
 
-Clean and minimal Quarto template for revealjs presentations. Modified and simplified template from my [Baylor theme](https://github.com/nathenbyford/baylor_theme).
+Clean and minimal Quarto template for revealjs presentations. Modified and simplified template from my [Baylor theme](https://github.com/nathenbyford/baylor_theme). Color pallet for this template is based on the Gulf racing livery colors with blue and orange bullet points.
 
 ## Edits made
 
 -   Gray heading accents,
 -   no logo,
--   neutral bullet points,
+-   blue and orange bullet points,
 -   Roboto font default, and
 -   Jetbrains mono font (no ligatures) for code blocks.
--   Image zoom on click (Radovan Miletić, [here](https://stackoverflow.com/questions/75922380/how-to-zoom-on-graph-in-slide-revealjs-quarto))
+-   Image zoom on click (Radovan Miletić, [from stack overflow](https://stackoverflow.com/questions/75922380/how-to-zoom-on-graph-in-slide-revealjs-quarto))
 
 ## Photos
 

@@ -23,8 +23,9 @@ $presentation-heading-font-weight: 400;
 $body-bg: #fefefe !default;
 $body-color: #000 !default;
 $selection-bg: #134e13;
-$stone: #363838;
-$orange: #FF7F00;
+$stone: #092B2B;
+$blue: #7BB5DC;
+$orange: #FF6720;
 $gray70: #b3b3b3;
 
 .subtext {
@@ -54,7 +55,7 @@ $gray70: #b3b3b3;
 	font-size: 42pt !important;
 }
 
-.subtitle::after {
+.date::before {
   content: "";
   display: block;
 	border: none;
@@ -110,7 +111,7 @@ $gray70: #b3b3b3;
 
 .reveal .slide ul li::before{
   content: '➤';
-  color: #10A9A2;
+  color: $blue; 
   position: relative;
   right: 10px;
   bottom: 5px;
@@ -118,11 +119,11 @@ $gray70: #b3b3b3;
 }
 
 .reveal .slide ul ul li::before{
-  color: #C6C7C7;
+  color: $orange;
 }
 
 .reveal .slide ul ul ul li::before{
-  color: #10A9A2;
+  color: $blue;
 }
 
 .reveal .slide ol li {
